@@ -20,4 +20,4 @@ class Word():
 first = Word('NUM')
 second = Word('num')
 
-print(first == second)  #直接使用eq进行比较
+print(first == second)  #直接使用eq进行比较，其实这里没怎么看懂__eq__的这个功能
