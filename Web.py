@@ -1,0 +1,1 @@
+#在cmd中输入 python -m http.server 用以快速创建一个简单的web服务 python -m http.server 默认端口是 8888 ；python -m http.server 9999 可以修改端口
